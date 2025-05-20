@@ -4,9 +4,12 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc bro tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
-  "Học kỳ tới auto điểm cao, học bổng bay vào tay 😎✨",
-  "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho bro chill tẹt ga 🎁🎉"
+  "🌹💐 Tuổi mới, chúc em:",
+  'Dáck không dí cây súng 18cm của ả vì em dám "lăng nhăng" với Viruss 😜',
+  'Band không đòi "nếm thử" vì em ngọt hơn cả kẹo sà cân🍭',
+  'Wren Evans không kiện vì em "cướp spotlight" của ảnh 💃',
+  'Và quan trọng nhất… Happy Birthday To Đóm con, vk iu của a Dáck, người tình Viruss, kẹo Ngọt của band, bồ nhí Wren Evans 🕯️📸💥',
+  'Chúc e mải nhớ đến a🎯✨'
 ];
 
 giftBox.addEventListener('click', () => {
